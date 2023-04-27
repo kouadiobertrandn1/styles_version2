@@ -1,0 +1,108 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    background-color:;
+  }
+  ul {
+    background-color:  ;
+  }
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  /* changer le lien en vert apres le passage du curseur */
+  li a:hover {
+    background-color: greenyellow;
+    }
+  div {
+    position: relative;
+    left:40%;
+    background-color: ;
+    width: 60%;
+    background-color: ;
+    
+  }
+  
+  body{
+    background-image: url();
+    margin-left: 15px;
+    color:black;
+    HEIGHT:6v0%;
+  
+    
+  font-family: roboto;
+  
+  }
+  
+  
+                  /* unvisited link */
+                  a:link {
+            color: tomato;
+        }
+  
+        /* visited link */
+        a:visited {
+            color: grey;
+        }
+  
+        /* mouse over element */
+        .lien a:hover {
+            color: rgb(25, 182, 59);
+        } 
+  
+        /* selected link */
+        a:active{
+            color: #0000FF
+        }
+  
+  h1{
+    font-family: roboto;
+    font-size:15px;
+  }
+  p{
+    font-size:20px;
+  }
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+    bottom: 0px;
+  }
+  
+  img{
+    width: 80%;
+    height: 70%;
+    margin-left: 20%;
+    border-radius: 45px;
+    border-RIGHT-radius:10PX ;
+  }
+  .job{
+    text-align: left;
+    WIDTH:20%;
+  }
+  .dispo{
+    text-align: right;
+    WIDTH:20%;
+  }
+  .work p {
+    display: inline-block;
+  }
+  h2{
+    color:burlywood;
+  }
+  
